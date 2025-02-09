@@ -13,7 +13,7 @@ Title: Index of the Project Gutenberg Works of Herman Melville
 Author: Herman Melville
 
 Release Date: December 16, 2018 [eBook #58477]
-[Most recently updated: December 17, 2022]
+[Most recently updated: January 8, 2023]
 
 Language: English
 
@@ -73,7 +73,7 @@ I AND MY CHIMNEY
 
 ##  THE PIAZZA TALES
 
-##  APPLE-TREE TABLE, OTHER SKETCHES
+##  THE APPLE-TREE TABLE AND OTHER SKETCHES
 
 
 
@@ -135,90 +135,188 @@ NOTE.
 
 
 TYPEE
+
 Herman Melville
+
 Illustrations By Mead Schaeffer
+
 CONTENTS
-A Land-sick Ship 	1
-	The sea-Longings for shore-A land-sick ship-Destination of the voyagers
-II 	To the Marquesas 	5
-	Passage from the cruising ground to the Marquesas-Sleepy times aboard ship-South Sea scenery-Land ho!-The French squadron discovered at anchor in the bay of Nukuheva-Strange pilot-Escort of canoes-A flotilla of cocoa-nuts-Swimming visitors-The Dolly boarded by them-State of affairs that ensue.
-III 	Affairs Aboard 	14
-	State of affairs aboard the ship-Contents of her larder-Length of South Seamen's voyages-Account of a flying whale-man-Determination to leave the vessel-The bay of Nukuheva-The Typees.
-IV 	Last Night Aboard 	21
-	Thoughts previous to attempting an escape-Toby, a fellow-sailor, agrees to share the adventure-Last night aboard the ship.
-V 	The Escape 	26
-	A specimen of nautical oratory-Criticisms of the sailors-The starboard watch are given a holiday-The escape to the mountains.
-VI 	Disappointment 	34
-	The other side of the mountain-Disappointment-Inventory of articles brought from the ship-Division of the stock of bread-Appearance of the interior of the island-A discovery-A ravine and waterfalls-A sleepless night-Further discoveries-My illness-A Marquesan landscape.
-VII 	A Wild-goose Chase 	45
-	The important question, Typee or Happar?-A wild-goose chase-My sufferings-Disheartening situation-A night in the ravine-Morning meal-Happy idea of Toby-Journey towards the valley.
-VIII 	Into the Valley 	54
-	Perilous passage of the ravine-Descent into the valley.
-IX 	Cautious Advance 	63
-	The head of the valley-Cautious advance-A path-Fruit-Discovery of two of the natives-Their singular conduct-Approach towards the inhabited parts of the vale-Sensation produced by our appearance-Reception at the house of one of the natives.
-X 	Morning Visitors 	75
-	Midnight reflections-Morning visitors-A warrior in costume-A savage Æsculapius-Practice of the healing art-Body-servant-A dwelling-house of the valley described-Portraits of its inmates.
-XI 	Adventure in the Dark 	90
-	Officiousness of Kory-Kory-His devotion-A bath in the stream-Want of refinement of the Typee damsels-Stroll with Mehevi-A Typee highway-The Taboo groves-The hoolah hoolah ground-The Ti-Timeworn savages-Hospitality of Mehevi-Midnight musings-Adventure in the dark-Distinguished honours paid to the visitors-Strange procession, and return to the house of Marheyo.
-XII 	Adventure of Toby 	101
-	Attempt to procure relief from Nukuheva-Perilous adventure of Toby in the Happar Mountains-Eloquence of Kory-Kory.
-XIII 	A Great Event 	109
-	A great event happens in the valley-The island telegraph-Something befalls Toby-Fayaway displays a tender heart-Melancholy reflections-Mysterious conduct of the islanders-Devotion of Kory-Kory-A rural couch-A luxury-Kory-Kory strikes a light à la Typee.
-XIV 	Kindness of the Islanders 	120
-	Kindness of Marheyo and the rest of the islanders-A full description of the bread-fruit tree-Different modes of preparing the fruit.
-XV 	Melancholy Condition 	126
-	Melancholy condition-Occurrence at the Ti-Anecdote of Marheyo-Shaving the head of a warrior.
-XVI 	Improvement 	132
-	Improvement in health and spirits-Felicity of the Typees-A skirmish in the mountain with the warriors of Happar.
-XVII 	A Stranger Arrives 	140
-	Swimming in company with the girls of the valley-A canoe-Effects of the taboo-A pleasure excursion on the pond-Beautiful freak of Fayaway-Mantua-making-A stranger arrives in the valley-His mysterious conduct-Native oratory-The interview-Its results-Departure of the stranger.
-XVIII 	Battle of the Pop-guns 	155
-	Reflection after Marnoo's departure-Battle of the pop-guns-Strange conceit of Marheyo-Process of making tappa.
-XIX 	Dances 	162
-	History of a day as usually spent in the Typee valley-Dances of the Marquesan girls.
-XX 	Monuments 	167
-	The spring of Arva Wai-Remarkable monumental remains-Some ideas with regard to the history of the pi-pis found in the valley.
-XXI 	A Festival 	171
-	Preparations for a grand festival in the valley-Strange doings in the Taboo Groves-Monument of Calabashes-Gala costume of the Typee damsels-Departure for the festival.
-XXII 	The Feast of Calabashes 	178
-	The Feast of Calabashes.
-XXIII 	Religion of the Typees 	185
-	Ideas suggested by the Feast of Calabashes-Effigy of a dead warrior-A singular superstition-The priest Kolory and the god Moa Artua-Amazing religious observance-A dilapidated shrine-Kory-Kory and the idol-An inference.
-XXIV 	Beauty of the Typees 	196
-	General information gathered at the festival-Personal beauty of the Typees-Their superiority over the inhabitants of the other islands-Diversity of complexion-A vegetable cosmetic and ointment-Testimony of voyagers to the uncommon beauty of the Marquesans-Few evidences of intercourse with civilized beings-Dilapidated musket-Primitive simplicity of government-Regal dignity of Mehevi.
-XXV 	Marriage Customs 	204
-	King Mehevi-Conduct of Marheyo and Mehevi in certain delicate matters-Peculiar system of marriage-Number of population-Uniformity-Embalming-Places of sepulture-Funeral obsequies at Nukuheva-Number of inhabitants in Typee-Location of the dwellings-Happiness enjoyed in the valley.
-XXVI 	Social Conditions 	210
-	The social condition and general character of the Typees.
-XXVII 	Fishing Parties 	216
-	Fishing parties-Mode of distributing the fish-Midnight banquet-Timekeeping tapers-Unceremonious style of eating the fish.
-XXVIII 	Natural History 	220
-	Natural history of the valley-Golden lizards-Tameness of the birds-Mosquitoes-Flies-Dogs-A solitary cat-The climate-The cocoa-nut tree-Singular modes of climbing it-An agile young chief-Fearlessness of the children-Too-too and the cocoa-nut tree-The birds of the valley.
-XXIX 	Tattooing 	228
-	A professor of the fine arts-His persecutions-Something about tattooing and tabooing-Two anecdotes in illustration of the latter-A few thoughts on the Typee dialect.
-XXX 	Music 	238
-	Strange custom of the islanders-Their chanting, and the peculiarity of their voice-Rapture of the king at first hearing a song-A new dignity conferred on the author-Musical instruments in the valley-Admiration of the savages at beholding a pugilistic performance-Swimming infant-Beautiful tresses of the girls-Ointment for the hair.
-XXXI 	Cannibalism 	244
-	Apprehensions of evil-Frightful discovery-Some remarks on cannibalism-Second battle with the Happars-Savage spectacle-Mysterious feast-Subsequent disclosures.
-XXXII 	Attempt To Escape 	254
-	The stranger again arrives in the valley-Singular interview with him-Attempt to escape-Failure-Melancholy situation-Sympathy of Marheyo.
-XXXIII 	The Escape 	260
-	The escape
-	Sequel 	270
-	Note.-The Author of "Typee" was more than two years in the South Seas, after escaping from the valley, as recounted in the last chapter. Some time after returning home the foregoing narrative was published, though it was little thought at the time that this would be the means of revealing the existence of Toby, who had long been given up for lost. But so it proved. The story of his escape supplies a natural sequel to the adventure, and as such it is now added to the volume. It was related to the Author by Toby himself.
-	Appendix 	285
-ILLUSTRATIONS
-	Fayaway and I had a delightful little party on the 	Frontispiece
-	  lake 	FACING PAGE
-	I found him ripe for the enterprise, and a very few
-  words sufficed for a mutual understanding between us 	22
-	At last we gained the top of the second elevation 	48
-	We were soon completely encircled by a dense throng 	68
-	The body was carried into the house and laid on a mat 	104
-	Thus arrayed, I would have matched the charming
-  Fayaway against any beauty in the world 	174
-	Mehevi 	200
-	About midnight I arose and drew the slide 	256
+
+CHAPTER I. A LAND-SICK SHIP
+The sea—Longings for shore—A land-sick ship—Destination of the voyagers
+
+CHAPTER II. TO THE MARQUESAS
+Passage from the cruising ground to the Marquesas—Sleepy times aboard
+ship—South Sea scenery—Land ho!—The French squadron discovered at
+anchor in the bay of Nukuheva—Strange pilot—Escort of canoes—A flotilla
+of cocoa-nuts—Swimming visitors—The _Dolly_ boarded by them—State of
+affairs that ensue.
+
+CHAPTER III. AFFAIRS ABOARD
+State of affairs aboard the ship—Contents of her larder—Length of South
+Seamen’s voyages—Account of a flying whale-man—Determination to leave
+the vessel—The bay of Nukuheva—The Typees.
+
+CHAPTER IV. LAST NIGHT ABOARD
+Thoughts previous to attempting an escape—Toby, a fellow-sailor, agrees
+to share the adventure—Last night aboard the ship.
+
+CHAPTER V. THE ESCAPE
+A specimen of nautical oratory—Criticisms of the sailors—The starboard
+watch are given a holiday—The escape to the mountains.
+
+CHAPTER VI. DISAPPOINTMENT
+The other side of the mountain—Disappointment—Inventory of articles
+brought from the ship—Division of the stock of bread—Appearance of the
+interior of the island—A discovery—A ravine and waterfalls—A sleepless
+night—Further discoveries—My illness—A Marquesan landscape.
+
+CHAPTER VII. A WILD-GOOSE CHASE
+The important question, Typee or Happar?—A wild-goose chase—My
+sufferings—Disheartening situation—A night in the ravine—Morning
+meal—Happy idea of Toby—Journey towards the valley.
+
+CHAPTER VIII. INTO THE VALLEY
+Perilous passage of the ravine—Descent into the valley.
+
+CHAPTER IX. CAUTIOUS ADVANCE
+The head of the valley—Cautious advance—A path—Fruit—Discovery of two
+of the natives—Their singular conduct—Approach towards the inhabited
+parts of the vale—Sensation produced by our appearance—Reception at the
+house of one of the natives.
+
+CHAPTER X. MORNING VISITORS
+Midnight reflections—Morning visitors—A warrior in costume—A savage
+Æsculapius—Practice of the healing art—Body-servant—A dwelling-house of
+the valley described—Portraits of its inmates.
+
+CHAPTER XI. ADVENTURE IN THE DARK
+Officiousness of Kory-Kory—His devotion—A bath in the stream—Want of
+refinement of the Typee damsels—Stroll with Mehevi—A Typee highway—The
+Taboo groves—The hoolah hoolah ground—The Ti—Timeworn
+savages—Hospitality of Mehevi—Midnight musings—Adventure in the
+dark—Distinguished honours paid to the visitors—Strange procession, and
+return to the house of Marheyo.
+
+CHAPTER XII. ADVENTURE OF TOBY
+Attempt to procure relief from Nukuheva—Perilous adventure of Toby in
+the Happar Mountains—Eloquence of Kory-Kory.
+
+CHAPTER XIII. A GREAT EVENT
+A great event happens in the valley—The island telegraph—Something
+befalls Toby—Fayaway displays a tender heart—Melancholy
+reflections—Mysterious conduct of the islanders—Devotion of Kory-Kory—A
+rural couch—A luxury—Kory-Kory strikes a light _à la_ Typee.
+
+CHAPTER XIV. KINDNESS OF THE ISLANDERS
+Kindness of Marheyo and the rest of the islanders—A full description of
+the bread-fruit tree—Different modes of preparing the fruit.
+
+CHAPTER XV. MELANCHOLY CONDITION
+Melancholy condition—Occurrence at the Ti—Anecdote of Marheyo—Shaving
+the head of a warrior.
+
+CHAPTER XVI. IMPROVEMENT
+Improvement in health and spirits—Felicity of the Typees—A skirmish in
+the mountain with the warriors of Happar.
+
+CHAPTER XVII. A STRANGER ARRIVES
+Swimming in company with the girls of the valley—A canoe—Effects of the
+taboo—A pleasure excursion on the pond—Beautiful freak of
+Fayaway—Mantua-making—A stranger arrives in the valley—His mysterious
+conduct—Native oratory—The interview—Its results—Departure of the
+stranger.
+
+CHAPTER XVIII. BATTLE OF THE POP-GUNS
+Reflection after Marnoo’s departure—Battle of the pop-guns—Strange
+conceit of Marheyo—Process of making tappa.
+
+CHAPTER XIX. DANCES
+History of a day as usually spent in the Typee valley—Dances of the
+Marquesan girls.
+
+CHAPTER XX. MONUMENTS
+The spring of Arva Wai—Remarkable monumental remains—Some ideas with
+regard to the history of the pi-pis found in the valley.
+
+CHAPTER XXI. A FESTIVAL
+Preparations for a grand festival in the valley—Strange doings in the
+Taboo Groves—Monument of Calabashes—Gala costume of the Typee
+damsels—Departure for the festival.
+
+CHAPTER XXII. THE FEAST OF CALABASHES
+The Feast of Calabashes.
+
+CHAPTER XXIII. RELIGION OF THE TYPEES
+Ideas suggested by the Feast of Calabashes—Effigy of a dead warrior—A
+singular superstition—The priest Kolory and the god Moa Artua—Amazing
+religious observance—A dilapidated shrine—Kory-Kory and the idol—An
+inference.
+
+CHAPTER XXIV. BEAUTY OF THE TYPEES
+General information gathered at the festival—Personal beauty of the
+Typees—Their superiority over the inhabitants of the other
+islands—Diversity of complexion—A vegetable cosmetic and
+ointment—Testimony of voyagers to the uncommon beauty of the
+Marquesans—Few evidences of intercourse with civilized
+beings—Dilapidated musket—Primitive simplicity of government—Regal
+dignity of Mehevi.
+
+CHAPTER XXV. MARRIAGE CUSTOMS
+King Mehevi—Conduct of Marheyo and Mehevi in certain delicate
+matters—Peculiar system of marriage—Number of
+population—Uniformity—Embalming—Places of sepulture—Funeral obsequies
+at Nukuheva—Number of inhabitants in Typee—Location of the
+dwellings—Happiness enjoyed in the valley.
+
+CHAPTER XXVI. SOCIAL CONDITIONS
+The social condition and general character of the Typees.
+
+CHAPTER XXVII. FISHING PARTIES
+Fishing parties—Mode of distributing the fish—Midnight
+banquet—Timekeeping tapers—Unceremonious style of eating the fish.
+
+CHAPTER XXVIII. NATURAL HISTORY
+Natural history of the valley—Golden lizards—Tameness of the
+birds—Mosquitoes—Flies—Dogs—A solitary cat—The climate—The cocoa-nut
+tree—Singular modes of climbing it—An agile young chief—Fearlessness of
+the children—Too-too and the cocoa-nut tree—The birds of the valley.
+
+CHAPTER XXIX. TATTOOING
+A professor of the fine arts—His persecutions—Something about tattooing
+and tabooing—Two anecdotes in illustration of the latter—A few thoughts
+on the Typee dialect.
+
+CHAPTER XXX. MUSIC
+Strange custom of the islanders—Their chanting, and the peculiarity of
+their voice—Rapture of the king at first hearing a song—A new dignity
+conferred on the author—Musical instruments in the valley—Admiration of
+the savages at beholding a pugilistic performance—Swimming
+infant—Beautiful tresses of the girls—Ointment for the hair.
+
+CHAPTER XXXI. CANNIBALISM
+Apprehensions of evil—Frightful discovery—Some remarks on
+cannibalism—Second battle with the Happars—Savage spectacle—Mysterious
+feast—Subsequent disclosures.
+
+CHAPTER XXXII. ATTEMPT TO ESCAPE
+The stranger again arrives in the valley—Singular interview with
+him—Attempt to escape—Failure—Melancholy situation—Sympathy of Marheyo.
+
+CHAPTER XXXIII. THE ESCAPE
+The escape
+
+SEQUEL
+NOTE.—The Author of “Typee” was more than two years in the South Seas,
+after escaping from the valley, as recounted in the last chapter. Some
+time after returning home the foregoing narrative was published, though
+it was little thought at the time that this would be the means of
+revealing the existence of Toby, who had long been given up for lost.
+But so it proved. The story of his escape supplies a natural sequel to
+the adventure, and as such it is now added to the volume. It was
+related to the Author by Toby himself.
+
+APPENDIX
 
 
 
@@ -862,138 +960,34 @@ By Herman Melville
 1852
 
 
-CONTENTS
+TABLE OF CONTENTS.
 
-BOOK I.
-PAGE
-
-PIERRE JUST EMERGING FROM HIS TEENS
-	1
-
-BOOK II.
-
-LOVE, DELIGHT, AND ALARM
-	26
-
-BOOK III.
-
-THE PRESENTIMENT AND THE VERIFICATION
-	56
-
-BOOK IV.
-
-RETROSPECTIVE
-	89
-
-BOOK V.
-
-MISGIVINGS AND PREPARATIVES
-	116
-
-BOOK VI.
-
-ISABEL, AND THE FIRST PART OF THE STORY OF ISABEL
-	147
-
-BOOK VII.
-
-INTERMEDIATE BETWEEN PIERRE'S TWO INTERVIEWS WITH ISABEL AT THE FARM-HOUSE
-	173
-
-BOOK VIII.
-
-THE SECOND INTERVIEW, AND THE SECOND PART OF THE STORY OF ISABEL. THEIR IMMEDIATE IMPULSIVE EFFECT UPON PIERRE
-	194
-
-BOOK IX.
-
-MORE LIGHT, AND THE GLOOM OF THAT LIGHT. MORE GLOOM, AND THE LIGHT OF THAT GLOOM
-	224
-
-BOOK X.
-
-THE UNPRECEDENTED FINAL RESOLUTION OF PIERRE
-	233
-
-BOOK XI.
-
-HE CROSSES THE RUBICON
-	247
-
-BOOK XII.
-
-ISABEL, MRS. GLENDINNING, THE PORTRAIT, AND LUCY
-	256
-
-BOOK XIII.
-
-THEY DEPART THE MEADOWS
-	273
-
-BOOK XIV.
-
-THE JOURNEY AND THE PAMPHLET
-	277
-
-BOOK XV.
-
-THE COUSINS
-	294
-
-BOOK XVI.
-
-FIRST NIGHT OF THEIR ARRIVAL IN THE CITY
-	312
-
-BOOK XVII.
-
-YOUNG AMERICA IN LITERATURE
-	333
-
-BOOK XVIII.
-
-PIERRE, AS A JUVENILE AUTHOR, RECONSIDERED
-	350
-
-BOOK XIX.
-
-THE CHURCH OF THE APOSTLES
-	360
-
-BOOK XX.
-
-CHARLIE MILLTHORPE
-	374
-
-BOOK XXI.
-
-PIERRE IMMATURELY ATTEMPTS A MATURE BOOK. TIDINGS FROM THE MEADOWS. PLINLIMMON
-	384
-
-BOOK XXII.
-
-THE FLOWER-CURTAIN LIFTED FROM BEFORE A TROPICAL AUTHOR; WITH SOME REMARKS ON THE TRANSCENDENTAL FLESH-BRUSH PHILOSOPHY
-	402
-
-BOOK XXIII.
-
-A LETTER FOR PIERRE. ISABEL. ARRIVAL OF LUCY'S EASEL AND TRUNKS AT THE APOSTLES'
-	418
-
-BOOK XXIV.
-
-LUCY AT THE APOSTLES'
-	439
-
-BOOK XXV.
-
-LUCY, ISABEL, AND PIERRE. PIERRE AT HIS BOOK. ENCELADUS
-	450
-
-BOOK XXVI.
-
-A WALK; A FOREIGN PORTRAIT; A SAIL. AND THE END
-	475
+BOOK I. PIERRE JUST EMERGING FROM HIS TEENS
+BOOK II. LOVE, DELIGHT, AND ALARM
+BOOK III. THE PRESENTIMENT AND THE VERIFICATION
+BOOK IV. RETROSPECTIVE
+BOOK V. MISGIVINGS AND PREPARATIVES
+BOOK VI. ISABEL, AND THE FIRST PART OF THE STORY OF ISABEL
+BOOK VII. INTERMEDIATE BETWEEN PIERRE'S TWO INTERVIEWS WITH ISABEL AT THE FARM-HOUSE
+BOOK VIII. THE SECOND INTERVIEW, AND THE SECOND PART OF THE STORY OF ISABEL. THEIR IMMEDIATE IMPULSIVE EFFECT UPON PIERRE
+BOOK IX. MORE LIGHT, AND THE GLOOM OF THAT LIGHT. MORE GLOOM, AND THE LIGHT OF THAT GLOOM
+BOOK X. THE UNPRECEDENTED FINAL RESOLUTION OF PIERRE
+BOOK XI. HE CROSSES THE RUBICON
+BOOK XII. ISABEL, MRS. GLENDINNING, THE PORTRAIT, AND LUCY
+BOOK XIII. THEY DEPART THE MEADOWS
+BOOK XIV. THE JOURNEY AND THE PAMPHLET
+BOOK XV. THE COUSINS
+BOOK XVI. FIRST NIGHT OF THEIR ARRIVAL IN THE CITY
+BOOK XVII. YOUNG AMERICA IN LITERATURE
+BOOK XVIII. PIERRE, AS A JUVENILE AUTHOR, RECONSIDERED
+BOOK XIX. THE CHURCH OF THE APOSTLES
+BOOK XX. CHARLIE MILLTHORPE
+BOOK XXI. PIERRE IMMATURELY ATTEMPTS A MATURE BOOK. TIDINGS FROM THE MEADOWS. PLINLIMMON
+BOOK XXII. THE FLOWER-CURTAIN LIFTED FROM BEFORE A TROPICAL AUTHOR; WITH SOME REMARKS ON THE TRANSCENDENTAL FLESH-BRUSH PHILOSOPHY
+BOOK XXIII. A LETTER FOR PIERRE. ISABEL. ARRIVAL OF LUCY'S EASEL AND TRUNKS AT THE APOSTLES'
+BOOK XXIV. LUCY AT THE APOSTLES'
+BOOK XXV. LUCY, ISABEL, AND PIERRE. PIERRE AT HIS BOOK. ENCELADUS
+BOOK XXVI. A WALK; A FOREIGN PORTRAIT; A SAIL. AND THE END
 
 
 
@@ -1274,20 +1268,21 @@ Notes
 
 
 THE APPLE-TREE TABLE AND OTHER SKETCHES
+
 By Herman Melville
+
 CONTENTS
-THE APPLE-TREE TABLE 	9
-HAWTHORNE AND HIS MOSSES 	53
-JIMMY ROSE 	87
-I AND MY CHIMNEY 	109
-THE PARADISE OF BACHELORS AND
-THE TARTARUS OF MAIDS 	167
-COCK-A-DOODLE-DOO!           	211
-THE FIDDLER 	257
-POOR MAN'S PUDDING AND
-RICH MAN'S CRUMBS 	271
-THE HAPPY FAILURE 	301
-THE 'GEES 	317
+
+  THE APPLE-TREE TABLE
+  HAWTHORNE AND HIS MOSSES
+  JIMMY ROSE
+  I AND MY CHIMNEY
+  THE PARADISE OF BACHELORS AND THE TARTARUS OF MAIDS
+  COCK-A-DOODLE-DOO!
+  THE FIDDLER
+  POOR MAN’S PUDDING AND RICH MAN’S CRUMBS
+  THE HAPPY FAILURE
+  THE ’GEES
 
 
 
