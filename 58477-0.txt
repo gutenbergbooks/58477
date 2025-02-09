@@ -1,4 +1,4 @@
-﻿The Project Gutenberg eBook of Index of the Project Gutenberg Works of Herman Melville
+The Project Gutenberg eBook of Index of the Project Gutenberg Works of Herman Melville
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -13,7 +13,7 @@ Title: Index of the Project Gutenberg Works of Herman Melville
 Author: Herman Melville
 
 Release Date: December 16, 2018 [eBook #58477]
-[Most recently updated: December 20, 2022]
+[Most recently updated: January 8, 2023]
 
 Language: English
 
@@ -73,7 +73,7 @@ I AND MY CHIMNEY
 
 ##  THE PIAZZA TALES
 
-##  APPLE-TREE TABLE, OTHER SKETCHES
+##  THE APPLE-TREE TABLE AND OTHER SKETCHES
 
 
 
@@ -1268,20 +1268,21 @@ Notes
 
 
 THE APPLE-TREE TABLE AND OTHER SKETCHES
+
 By Herman Melville
+
 CONTENTS
-THE APPLE-TREE TABLE 	9
-HAWTHORNE AND HIS MOSSES 	53
-JIMMY ROSE 	87
-I AND MY CHIMNEY 	109
-THE PARADISE OF BACHELORS AND
-THE TARTARUS OF MAIDS 	167
-COCK-A-DOODLE-DOO!           	211
-THE FIDDLER 	257
-POOR MAN'S PUDDING AND
-RICH MAN'S CRUMBS 	271
-THE HAPPY FAILURE 	301
-THE 'GEES 	317
+
+  THE APPLE-TREE TABLE
+  HAWTHORNE AND HIS MOSSES
+  JIMMY ROSE
+  I AND MY CHIMNEY
+  THE PARADISE OF BACHELORS AND THE TARTARUS OF MAIDS
+  COCK-A-DOODLE-DOO!
+  THE FIDDLER
+  POOR MAN’S PUDDING AND RICH MAN’S CRUMBS
+  THE HAPPY FAILURE
+  THE ’GEES
 
 
 
